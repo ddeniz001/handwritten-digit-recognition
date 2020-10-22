@@ -8,7 +8,6 @@ import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 # Import dataset called mnist, which includes handwritten digits from 0 to 9
 mnist = tf.keras.datasets.mnist
 
