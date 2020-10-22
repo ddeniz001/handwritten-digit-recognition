@@ -4,4 +4,4 @@ This is a basic Neural Network model that is able to learn what handwritten digi
 ## Requirements
 * Python 3
 * Tensorflow 2.0 +
-*You can simply run the program on your terminal, but jupyter notebook with tensorflow environment would be your best bet.*
+* *You can simply run the program in your terminal, but jupyter notebook with tensorflow environment would be your best bet.*
